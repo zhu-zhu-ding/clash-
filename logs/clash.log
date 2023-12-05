@@ -1,0 +1,2 @@
+time="2023-11-12T23:33:08+08:00" level=error msg="External controller listen error: listen tcp 0.0.0.0:9090: bind: address already in use"
+time="2023-11-12T23:33:09+08:00" level=warning msg="[CacheFile] can't open cache file: timeout"
